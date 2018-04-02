@@ -7,7 +7,9 @@ import imageFrame from '../components/imageFrame.js'
 
 
 const Letter = styled.span`
-    
+    padding: 1em;
+    color: pink;
+    background-color: blue;
 `;
 
 const Image = styled.img`
